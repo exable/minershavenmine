@@ -1,0 +1,49 @@
+Autofarm
+
+• Ore Boost
+  • The highest multiplier furnace that works with resetters, sets ore limit to 1, and is compatible with layout selection and auto rebirth.
+• Auto Rebirth
+  • Checks money for rebirth and money layout, with two layouts available.
+• Wait to Rebirth
+  • Waits until the selected time has passed before rebirthing.
+• Wait to Skip
+  • Waits until you have enough money to skip a selected amount of lives.
+• Auto Remote
+  • Spams the remote button.
+• Auto Pulsar
+  • Pulses after a selected delay or spams the pulse.
+  
+Layout
+• Layout Stealer
+  • Select a player to steal from and the layout you want to steal.
+• Build Layout button
+  • Currently being worked on, does not have any function yet.
+
+Teleport
+• Auto Crate
+  • Collects all crates.
+• Auto Clover
+  • Collects all clovers.
+• Teleport to places on the map
+  • Masked Man, Fargield, etc.
+• Teleport to selected leaderboards
+  • Masked Man, Fargield, etc.
+
+GUIs
+• Open various vendor GUIs
+  • Craftsman, Masked Man, Spook McDook, Draedon, True Book of Knowledge, and Clover Shop.
+
+Movement
+• Adjust your walk speed and jump power.
+
+Miscellaneous
+• Permanent Day Time
+  • Change the time of day to permanent day.
+•Permanent Night Time
+  • Change the time of day to permanent night.
+• Anti AFK Always On
+  • Prevents being kicked for being idle.
+• Minimize GUI
+  • Minimize the GUI with the right control button.
+• Close GUI
+  • Close the GUI.
