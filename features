@@ -11,12 +11,11 @@ Autofarm
   • Fires ingame remote after a selected delay or spams the pulse.
 • Auto Pulsar
   • Pulses after a selected delay or spams the pulse.
-  
-Layout
-• Layout Stealer
-  • Select a player to steal from and the layout you want to steal.
-• Build Layout button
-  • Currently being worked on, does not have any function yet.
+• Anti AFK Always On
+  • Prevents being kicked for being idle.
+
+Tycoon Tweaks
+Coming soon
 
 Teleport
 • Auto Crate
@@ -32,8 +31,11 @@ GUIs
 • Open various vendor GUIs
   • Craftsman, Masked Man, Spook McDook, Draedon, True Book of Knowledge, and Clover Shop.
 
-Movement
-• Adjust your walk speed and jump power.
+Layouts
+• Layout Stealer
+  • Select a player to steal from and the layout you want to steal.
+• Build Layout button
+  • Currently being worked on, does not have any function yet.
 
 Miscellaneous
 • Auto open mystery boxes
@@ -44,9 +46,17 @@ Miscellaneous
   • Change the time of day to permanent day.
 •Permanent Night Time
   • Change the time of day to permanent night.
-• Anti AFK Always On
-  • Prevents being kicked for being idle.
-• Minimize GUI
-  • Minimize the GUI with the right control button.
+
+Movement
+• Adjust your walk speed and jump power.
+
+Spoofer
+• Spoof stats feature that falsifies all stats visible on your screen. This can be particularly useful for scenarios such as screensharing, recording or streaming, where you may not wish for others to identify your username 
+
+Settings
 • Close GUI
   • Close the GUI.
+• Credits
+  • Credits those who worked on the script
+• Minimize GUI
+  • Minimize the GUI with the right control button.
