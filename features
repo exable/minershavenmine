@@ -40,6 +40,10 @@ Layouts
 Miscellaneous
 • Auto open mystery boxes
   • Automatically opens mystery boxes based off which box you have selected
+• Ore ESP
+  • Shows ores through walls, colour of ESP is based off colour of ore
+• Destroy ores
+  • Instantly removes all ores within the factory.
 • Optimize Graphics
   • Enhances game performance for low-end computers
 • Permanent Day Time
