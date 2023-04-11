@@ -18,39 +18,56 @@ Tycoon Tweaks
 Coming soon
 
 Teleport
-• Auto Crate
+• Crate TP
   • Collects all crates.
-• Auto Clover
-  • Collects all clovers.
+• Egg TP
+  • Collects all eggs.
 • Teleport to places on the map
   • Masked Man, Fargield, etc.
 • Teleport to selected leaderboards
-  • Masked Man, Fargield, etc.
+  • Teleports to leaderboards area
 
 GUIs
 • Open various vendor GUIs
-  • Craftsman, Masked Man, Spook McDook, Draedon, True Book of Knowledge, and Clover Shop.
+  • Craftsman, Masked Man, Spook McDook, Draedon, True Book of Knowledge
 
 Layouts
 • Layout Stealer
   • Select a player to steal from and the layout you want to steal.
 • Build Layout button
-  • Currently being worked on, does not have any function yet.
+  • Builds selected players layout number
+• Generate ID for Selected Layout
+  • Generates a random string of numbers and letters to share and use layout selected in layout stealer
+• Generate ID for Current Base
+  • Generates a random string of numbers and letters to share and use items on current base
+• Load ID Layout
+  • Loads the ID layout pasted in the box
 
 Miscellaneous
 • Auto open mystery boxes
   • Automatically opens mystery boxes based off which box you have selected
+  • Clover toggle
 • Ore ESP
   • Shows ores through walls, colour of ESP is based off colour of ore
+• Egg ESP
+  • Shows all eggs through walls, colour of the eggs is bright red
+• Auto Redeem Eggs
+  • Automatically redeem every egg for rewards
 • Destroy ores
   • Instantly removes all ores within the factory.
-• Optimize Graphics
-  • Enhances game performance for low-end computers
 • Permanent Day Time
   • Change the time of day to permanent day.
-•Permanent Night Time
+• Permanent Night Time
   • Change the time of day to permanent night.
-
+• Resume time cycle
+  • Resumes cycle after using the night/time sets
+• Optimize Graphics
+  • Enhances game performance for low-end computers
+• Ore Painter
+  • Automatically paints all ores on base to the selected color
+• Withdraw Base
+  • Automatically withdraws every item on base
+  
 Movement
 • Adjust your walk speed and jump power.
 
@@ -58,9 +75,6 @@ Spoofer
 • Spoof stats feature that falsifies all stats visible on your screen. This can be particularly useful for scenarios such as screensharing, recording or streaming, where you may not wish for others to identify your username 
 
 Settings
-• Close GUI
-  • Close the GUI.
+• Minimize GUI keybind select option
+• Destroy the GUI, hides it
 • Credits
-  • Credits those who worked on the script
-• Minimize GUI
-  • Minimize the GUI with the right control button.
