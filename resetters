@@ -1,0 +1,31 @@
+{
+    "tesla": {
+        "Tesla Refuter": {
+            "shiny": "⭐ Paranormal Tesla Refuter ⭐"
+        },
+        "Tesla Resetter": {
+            "shiny": "⭐ Paranormal Tesla Resetter ⭐"
+        }
+    },
+    "Stars": {
+        "Void Star": {
+            "shiny": "⭐ Stargazed Void Star ⭐"
+        },
+        "Black Dwarf": {
+            "shiny": "⭐ Stargazed Black Dwarf ⭐"
+        }
+    },
+    "SacProof": {
+        "The Ultimate Sacrifice": {
+            "shiny": "no shiny"
+        },
+        "The Final Upgrader": {
+            "shiny": "no shiny"
+        }
+    },
+    "Dae": {
+        "Daestrophe": {
+            "shiny": "no shiny"
+        }
+    }
+}
